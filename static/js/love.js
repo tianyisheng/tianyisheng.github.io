@@ -76,7 +76,7 @@
         this.tree = tree;
 
         var scale = scale || 1
-        var color = color || '#FF0000';
+        var color = color || '#FF0095';
 
         this.heart = {
             point  : point,
@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "12px 微软雅黑,Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
-            ctx.fillText("点我", 23, 16);
+            ctx.fillText("宝兔生日快乐~", 23, 16);
             ctx.restore();
         },
         clear: function() {
