@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="aa214993-785d-4967-92a2-0e397e38e3a0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/love.js" afterPath="$PROJECT_DIR$/static/js/love.js" />
     </list>
     <ignored path="tianyisheng.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,7 +64,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="49" selection-start="1919" selection-end="1919" vertical-scroll-proportion="0.23628692" vertical-offset="112" max-vertical-offset="3164">
+            <state line="177" column="41" selection-start="6735" selection-end="6735" vertical-scroll-proportion="0.42109704" vertical-offset="1979" max-vertical-offset="3164">
               <folding />
             </state>
           </provider>
@@ -358,7 +357,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="49" selection-start="1919" selection-end="1919" vertical-scroll-proportion="0.23628692" vertical-offset="112" max-vertical-offset="3164">
+        <state line="177" column="41" selection-start="6735" selection-end="6735" vertical-scroll-proportion="0.42109704" vertical-offset="1979" max-vertical-offset="3164">
           <folding />
         </state>
       </provider>
