@@ -4,7 +4,6 @@
     <list default="true" id="aa214993-785d-4967-92a2-0e397e38e3a0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/love.js" afterPath="$PROJECT_DIR$/static/js/love.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tianyisheng.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,19 +62,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="17" selection-start="185" selection-end="187" vertical-scroll-proportion="-0.85714287" vertical-offset="0" max-vertical-offset="3206">
+            <state line="28" column="49" selection-start="1919" selection-end="1919" vertical-scroll-proportion="0.23628692" vertical-offset="112" max-vertical-offset="3164">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="love.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="love.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/js/love.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="39" selection-start="2345" selection-end="2345" vertical-scroll-proportion="0.623987" vertical-offset="322" max-vertical-offset="7546">
+            <state line="76" column="0" selection-start="2274" selection-end="2274" vertical-scroll-proportion="-18.846153" vertical-offset="574" max-vertical-offset="7546">
               <folding />
             </state>
           </provider>
@@ -94,8 +93,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/static/js/love.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -343,13 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="17" selection-start="185" selection-end="187" vertical-scroll-proportion="-0.85714287" vertical-offset="0" max-vertical-offset="3206">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="30" selection-start="281" selection-end="281" vertical-scroll-proportion="0.045380875" vertical-offset="0" max-vertical-offset="1234">
@@ -359,7 +351,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/js/love.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="39" selection-start="2345" selection-end="2345" vertical-scroll-proportion="0.623987" vertical-offset="322" max-vertical-offset="7546">
+        <state line="76" column="0" selection-start="2274" selection-end="2274" vertical-scroll-proportion="-18.846153" vertical-offset="574" max-vertical-offset="7546">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="49" selection-start="1919" selection-end="1919" vertical-scroll-proportion="0.23628692" vertical-offset="112" max-vertical-offset="3164">
           <folding />
         </state>
       </provider>
